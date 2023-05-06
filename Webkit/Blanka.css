@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'blankaregular';
-    src: url('blanka-webfont.woff2') format('woff2');
+    src: url('./blanka-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
