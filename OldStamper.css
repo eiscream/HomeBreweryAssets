@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'old_stamperregular';
-    src: url('old_stamper-webfont.woff2') format('woff2');
+    src: url('./old_stamper-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
